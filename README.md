@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # app_dev_odyssey
 ![odyssey](https://github.com/ndush/app_dev_odyssey/assets/13904670/8a4cf59a-b5c0-42c6-b553-ca6206079342)
+![Screenshot from 2024-02-26 00-34-32](https://github.com/ndush/app_dev_odyssey/assets/13904670/8a29f5d8-bcf9-4453-8bc3-86a59a3c2764)
